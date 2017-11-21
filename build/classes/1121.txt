@@ -1,0 +1,29 @@
+<<HTML용어 정리>>
+
+1. 태그
+  <텍스트>  ---> 부등호 괄호(<>)안에 텍스트가 들어갈때 태그라고 함!!
+  
+  종류)
+    - 시작태그(Start Tag)
+      <html> ==> html시작
+      
+    - 끝태그(End Tag)
+      </html> ==> html끝
+    
+    - 빈태그(Empty Tag)
+      <hr></hr>  ==>  <hr/>  수평선 긋지
+      
+2. 엘리먼트(Element)
+      <table>  ----> table시작태그
+      <tr>
+        <td>홍길동</td><td>길라임</td>
+      </tr>
+    </table> ----> table끝태그
+    
+    table엘리먼트 : <table>태그가 포함하는 자식요소까지 합친 용어!!
+    
+    
+    
+    
+ 
+
